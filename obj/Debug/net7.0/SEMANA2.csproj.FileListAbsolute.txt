@@ -1,0 +1,15 @@
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\bin\Debug\net7.0\SEMANA2.exe
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\bin\Debug\net7.0\SEMANA2.deps.json
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\bin\Debug\net7.0\SEMANA2.runtimeconfig.json
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\bin\Debug\net7.0\SEMANA2.dll
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\bin\Debug\net7.0\SEMANA2.pdb
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\obj\Debug\net7.0\SEMANA2.csproj.AssemblyReference.cache
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\obj\Debug\net7.0\SEMANA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\obj\Debug\net7.0\SEMANA2.AssemblyInfoInputs.cache
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\obj\Debug\net7.0\SEMANA2.AssemblyInfo.cs
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\obj\Debug\net7.0\SEMANA2.csproj.CoreCompileInputs.cache
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\obj\Debug\net7.0\SEMANA2.dll
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\obj\Debug\net7.0\refint\SEMANA2.dll
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\obj\Debug\net7.0\SEMANA2.pdb
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\obj\Debug\net7.0\SEMANA2.genruntimeconfig.cache
+C:\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Actividad semana 2\gu-a-semana-2-Rciat05\obj\Debug\net7.0\ref\SEMANA2.dll
